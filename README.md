@@ -14,4 +14,4 @@ This is a very small config I tried to make mixing Horizong cfg and CSAFAP cfg i
 
 **Credits to:**
   - [CSAFAP](https://github.com/FNScence/CSAFAP-config-package)
-  - [LHorizon](https://github.com/eLecCap1taL/Horizon)
+  - [Horizon](https://github.com/eLecCap1taL/Horizon)
