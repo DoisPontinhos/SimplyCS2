@@ -9,3 +9,9 @@ This is a very small config I tried to make mixing Horizong cfg and CSAFAP cfg i
 
 **Null Binds aka SnapTap**
   - I tried to make Null binds and desubticked (Not sure it desubtick is working)
+
+---
+
+**Credits to:**
+  - [CSAFAP](https://github.com/FNScence/CSAFAP-config-package)
+  - [LHorizon](https://github.com/eLecCap1taL/Horizon)
